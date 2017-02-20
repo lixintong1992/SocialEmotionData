@@ -1,6 +1,6 @@
 # SocialEmotionData
 
-This dataset consists of the social news from Sina News Board
+This dataset consists of the social news from Sina News
 
 2012.1-2012.4 is from Rao's publications
 
