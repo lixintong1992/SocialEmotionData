@@ -11,5 +11,6 @@ http://hcp.sysu.edu.cn/wp-content/uploads/2016/09/PDF1.pdf
 2016.1-2016.11 is new data!
 
 Xintong Li, Qinke Peng, Zhi Sun, Ling Chai, Ying Wang, "Predicting Social Emotions from Readers’ Perspective", IEEE Transactions on Affective Computing, vol. , no. , pp. 1, 5555, doi:10.1109/TAFFC.2017.2695607
+https://www.researchgate.net/publication/316259881_Predicting_Social_Emotions_from_Readers%27_Perspective
 
 when you use this dataset, please cite these publications
